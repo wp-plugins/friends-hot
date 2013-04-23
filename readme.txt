@@ -12,7 +12,7 @@ Display new posts of friend's website.
 == Description ==
 
 Description: Display new posts of friend's website. Please visit http://www.tiandiyoyo.com for more information.
-
+热友插件，用来在自己的博客上显示好友最新更新文章以及时间，如果您能读懂中文的话，请访问http://www.tiandiyoyo.com以获得更多该插件信息。
 
 == Installation ==
 
