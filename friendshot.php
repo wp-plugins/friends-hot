@@ -83,7 +83,7 @@ function friendshot_optionpanel() { ?>
 					update_option('cachetimecount',$abc);
 					$curl_content = get_transient('mycurlcached');
 				    if(!empty($curl_content)){
-						set_transient('mycurlcached',$curl_content,$abc >10 ? $abc:10);
+						set_transient('mycurlcached',$curl_content,$abc >30 ? $abc:30);
 					}
 					?> 
 					<input type="text" name="cachetime" id="cachetime" value= <?php echo $abc; ?> size=3 />秒。
