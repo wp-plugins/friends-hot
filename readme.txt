@@ -11,7 +11,7 @@ Display new posts of friend's website.
 
 == Description ==
 
-Description: Display new posts of friend's website.Wordpress热友插件，用来在自己站点显示友情站点最新的更新文章标题。如果您能读懂中文，请访问http://www.tiandiyoyo.com获取更多信息。
+Description: Display new posts of friend's website. Please visit http://www.tiandiyoyo.com for more information.
 
 
 == Installation ==
