@@ -11,7 +11,7 @@ Display new posts of friend's website.
 
 == Description ==
 
-Description: Display new posts of friend's website.WordpressÈÈÓÑ²å¼ş£¬ÓÃÀ´ÔÚ×Ô¼ºÕ¾µãÏÔÊ¾ÓÑÇéÕ¾µã×îĞÂµÄ¸üĞÂÎÄÕÂ±êÌâ¡£Èç¹ûÄúÄÜ¶Á¶®ÖĞÎÄ£¬Çë·ÃÎÊhttp://www.tiandiyoyo.com»ñÈ¡¸ü¶àĞÅÏ¢¡£
+Description: Display new posts of friend's website.Wordpressçƒ­å‹æ’ä»¶ï¼Œç”¨æ¥åœ¨è‡ªå·±ç«™ç‚¹æ˜¾ç¤ºå‹æƒ…ç«™ç‚¹æœ€æ–°çš„æ›´æ–°æ–‡ç« æ ‡é¢˜ã€‚å¦‚æœæ‚¨èƒ½è¯»æ‡‚ä¸­æ–‡ï¼Œè¯·è®¿é—®http://www.tiandiyoyo.comè·å–æ›´å¤šä¿¡æ¯ã€‚
 
 
 == Installation ==
