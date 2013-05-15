@@ -28,7 +28,7 @@ http://www.tiandiyoyo.com/2013/04/friends-hot-1-0/
 
 == Screenshots ==
 
-http://www.tiandiyoyo.com/2013/04/friends-hot-1-0/
+1. Frields hot page.
 
 == Changelog ==
 
